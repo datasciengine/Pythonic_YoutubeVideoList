@@ -8,5 +8,5 @@ Selamlar, bu repo [şu linkteki youtube oynatma listesinin](https://www.youtube.
 
 **#3** [Python List, Dict, Set Comprehension]() # todo
 
-**#4** [Python &ast;args ve &ast;&ast;kwargs Mantığı ve Kullanımı] (https://youtu.be/0RMa4x2WLz0)
+**#4** [Python &ast;args ve &ast;&ast;kwargs Mantığı ve Kullanımı](https://youtu.be/0RMa4x2WLz0)
 
